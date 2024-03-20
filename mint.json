@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "QRev AI",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -54,7 +54,10 @@
       "pages": [
         "introduction",
         "quickstart",
-        "development"
+        "development",
+        "vision",
+        "architecture",
+        "roadmap"
       ]
     },
     {
